@@ -38,7 +38,7 @@
 
 - [x] 字符串操作：`String`、`StringBuffer`和`StringBuilder`
 - [x] 输入输出：`java.util.Scanner`类、文件操作
-- [ ] 日期和时间`LocalDate`、`LocalTime`、`Date`等
+- [x] 日期和时间`LocalDate`、`LocalTime`、`Date`等
 - [ ] Java多线程和并发线程（待定）
 
 > 2025 W5
