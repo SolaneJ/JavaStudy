@@ -9,7 +9,11 @@
 
 > 2025 Main
 
-- [RuoYi-Vue](https://doc.ruoyi.vip/ruoyi-vue/)
+- [ ] [Maven](https://maven.apache.org)
+
+- [ ] [Gradle](http://gradle.org)
+
+- [ ] [RuoYi-Vue](https://doc.ruoyi.vip/ruoyi-vue/)
 
   - [ ] common             工具类
       - [ ] annotation     自定义注解
@@ -38,9 +42,14 @@
 
 - [x] 字符串操作：`String`、`StringBuffer`和`StringBuilder`
 - [x] 输入输出：`java.util.Scanner`类、文件操作
-- [x] 日期和时间`LocalDate`、`LocalTime`、`Date`等
-- [ ] Java多线程和并发线程（待定）
+- [x] 日期和时间：`LocalDate`、`LocalTime`、`Date`等
+- [ ] Java多线程和并发线程
 
 > 2025 W5
 - [ ] 集合框架
+- [ ] 日志框架logback、slf4j、log4j等
 - [ ] 内部类和匿名类
+- [ ] Java8新特性
+  - [ ] Lambda表达式
+  - [ ] Stream API
+  - [ ] Optional类
